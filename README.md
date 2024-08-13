@@ -10,7 +10,7 @@ Here are some ideas to get you started:
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbu4066&label=Profile%20views&color=0e75b6&style=flat" alt="khushbu4066" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbu4066&label=Profile%20views&color=0e75b6&style=flat" alt="Shraddha Pandey" /> </p>
 <h3 align="left">About Me:</h3>
 
 - I am a computer science engineering student at VIT Bhopal University, specializing in cyber security.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on *Web Development Projects*
   
-- 💬 Ask me about *Java, Data Structure, Html, CSS, JS, ReactJS, NodeJS, Linux*
+- 💬 Ask me about *Java, Data Structure, Html, CSS, JS, Autopsy, FTK Imager, Digital, Cybersecurity, Linux*
 
 - 📫 How to reach me *shraddha.pandeyforensic123@gmail.com*
   
