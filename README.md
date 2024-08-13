@@ -10,7 +10,7 @@ Here are some ideas to get you started:
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
   
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbu4066&label=Profile%20views&color=0e75b6&style=flat" alt="Shraddha Pandey" /> </p>
