@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 <p align="left">
 
   
-<a href="https://twitter.com/_khushbu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_khushbu01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khushbu dadhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushbu dadhe" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/khushbu_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khushbu_01" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/khushbudadhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="khushbudadhe" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/shraddhapand29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shraddhapandey" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shraddhapandey100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushbu dadhe" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shraddhapandey100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shraddhapandey100" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shraddhapandey100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shraddhapandey" height="30" width="40" /></a>
 
 <br>
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushbu4066" alt="khushbu4066" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shraddhapandey100" alt="shraddhapandey100" /></a> </p>
 
 <br>
 
@@ -78,8 +78,8 @@ Here are some ideas to get you started:
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushbu4066&show_icons=true&locale=en&layout=compact" alt="khushbu4066" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushbu4066&show_icons=true&locale=en" alt="khushbu4066" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shraddhapandey100&show_icons=true&locale=en&layout=compact" alt="shraddhapandey100" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shraddhapandey100&show_icons=true&locale=en" alt="shraddhapandey100" /></p>
 <br>
 
 <p align="left">
@@ -87,10 +87,10 @@ Here are some ideas to get you started:
 </p>
 
 <p style="flex: 1;">
-    <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khushbu4066&theme=default&utcOffset=8" width="300" height="150" />
+    <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shraddhapandey100&theme=default&utcOffset=8" width="300" height="150" />
   </p>
   <p style="flex: 1;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushbu4066&" alt="khushbu4066" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddhapandey100&" alt="shraddhapandey100" />
   </p>
 
 <br>
