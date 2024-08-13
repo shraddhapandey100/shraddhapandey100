@@ -1,4 +1,5 @@
-**Hi! My name is Shraddha Pandey.**
+<h1 align="center"> < Hello Coders🚀, I'm Shraddha Pandey <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
+
 <!--
 **shraddhapandey100/shraddhapandey100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -12,17 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Shraddha.
 - ⚡ Fun fact: I am highly passionate about playing with computers and acquiring new skills at all times.
 
-
-
-
 <h3 align="center">An aspiring Web Developer, Pationate to learn new things.</h3>
-
-
-
-
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbu4066&label=Profile%20views&color=0e75b6&style=flat" alt="khushbu4066" /> </p>
 <h3 align="left">About Me:</h3>
 
-- 🌱 I’m currently learning *Backend databases*
+- 🌱 I’m currently learning *Full Stack Development*
 
 - 👯 I’m looking to collaborate on *Web Development Projects*
   
@@ -37,12 +36,9 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-
-  
-<a href="https://www.geeksforgeeks.org/user/shraddhapand29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shraddhapandey" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shraddhapandey100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushbu dadhe" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shraddhapandey100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shraddhapandey100" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shraddhapandey100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shraddhapandey" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shraddhapand29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shraddhapandey" height="30" width="40" /></a>
 
 <br>
 
