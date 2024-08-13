@@ -5,14 +5,6 @@
 Here are some ideas to get you started:
 -->
 
-- I am a computer science engineering student at VIT Bhopal University, specializing in cyber security.
-- 🌱 I'm presently learning Java programming and DSA along with MERN technology.
-- 👯 I'm hoping to work on a team and contribute my knowledge to one that works on a large scale to benefit society and broaden my skill set.
-- 💬 So far, I've worked on projects that focus on cyber security and use Python as its technology.
-- Please contact me via LinkedIn (https://www.linkedin.com/in/pshraddha30/) or Twitter (https://twitter.com/home).
-- 😄 Pronouns: Shraddha.
-- ⚡ Fun fact: I am highly passionate about playing with computers and acquiring new skills at all times.
-
 <h3 align="center">An aspiring Web Developer, Pationate to learn new things.</h3>
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -21,6 +13,8 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbu4066&label=Profile%20views&color=0e75b6&style=flat" alt="khushbu4066" /> </p>
 <h3 align="left">About Me:</h3>
 
+- I am a computer science engineering student at VIT Bhopal University, specializing in cyber security.
+  
 - 🌱 I’m currently learning *Full Stack Development*
 
 - 👯 I’m looking to collaborate on *Web Development Projects*
@@ -28,8 +22,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about *Java, Data Structure, Html, CSS, JS, ReactJS, NodeJS, Linux*
 
 - 📫 How to reach me *shraddha.pandeyforensic123@gmail.com*
+  
+- 😄 Pronouns: Shraddha.
 
-- ⚡ Fun fact: *It’s all 0’s and 1’s*
+- ⚡ Fun fact: *It’s all 0’s and 1’s and I am highly passionate about playing with computers and acquiring new skills at all times.*
 
 <br>
 
