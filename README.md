@@ -12,16 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Shraddha.
 - ⚡ Fun fact: I am highly passionate about playing with computers and acquiring new skills at all times.
 
-- <h1 align="center"> < Hello Coders🚀, I'm Shraddha <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
+
 
 
 <h3 align="center">An aspiring Web Developer, Pationate to learn new things.</h3>
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
-  
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+
+
 
 <h3 align="left">About Me:</h3>
 
