@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   
 - 😄 Pronouns: Shraddha.
 
-- ⚡ Fun fact: *It’s all 0’s and 1’s and I am highly passionate about playing with computers and acquiring new skills at all times.*
+- ⚡ Fun fact: *It’s all 0’s and 1’s, I am highly passionate about playing with computers and acquiring new skills at all times.*
 
 <br>
 
