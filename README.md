@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-<h3 align="center">An aspiring Full Stack Development, Pationate to learn new things.</h3>
+<h3 align="center">An aspiring Cyber Security Enthusiast, Pationate to learn new things.</h3>
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
